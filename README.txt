@@ -1,0 +1,1 @@
+Pokedex Project for Educational Purposes.
